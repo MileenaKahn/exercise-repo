@@ -3,4 +3,4 @@ Repo made for exercise
 
 Some cool text. :)
 
-Some fancy text here~
+Some fancy text wright here ----> ____
